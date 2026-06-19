@@ -14,3 +14,22 @@ h1{
     padding: 10px;
     text-align: center;
 }
+.navbar{
+    border: 3px black;
+    border-color: black;
+    border-style: solid;
+    padding: 20px;
+    background-color: lightsteelblue;
+    text-align: center;
+}
+.navbar a{
+    color: brown;
+    padding: 20px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: lightblue;
+}
+body{
+    margin: 0px;
+}
