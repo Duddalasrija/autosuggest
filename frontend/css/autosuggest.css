@@ -1,0 +1,30 @@
+.gear{
+    position: fixed;
+    top: 70px;
+    left: 20px;
+}
+
+.pill{
+    position: fixed;
+    top: 70px;
+    right: 20px;
+}
+
+.main-content{
+    text-align: center;
+}
+
+.lens{
+    position: relative;
+    left: 30px;
+}
+
+.searchbox{
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
