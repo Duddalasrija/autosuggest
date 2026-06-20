@@ -33,3 +33,13 @@ h1{
 body{
     margin: 0px;
 }
+.card{
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    padding: 0px;
+    margin: 100px auto;
+}
+.card img{
+    width: 100%;
+}
